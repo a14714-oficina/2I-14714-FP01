@@ -49,5 +49,3 @@ Este site foi desenvolvido com fins educativos, para praticar:
 - Organização de projeto  
 - Trabalho em ambiente VS Code  
 
-## 📜 Licença
-Projeto livre para uso e modificação.
